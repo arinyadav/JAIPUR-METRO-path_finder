@@ -1,1 +1,22 @@
+Hello Folks,
+I am ARIN YADAV and YASH KAUSHIK students of NATIONAL INSTITUE OF TECHNOLOGY AGARTALA are here with a basic and simple 
+project of path finder based on data structures and algorithms. It gives you broad idea how to implement DSA in real life.
 
+
+This C++ code implements real time use case of Dijkstra's algorithm to find the shortest path from source to every destination.
+There are 30 metro stations in Jaipur. Considering each station an integer value starting from 0 is assigned,
+when the user enters the source station Dijkstras algorithm is applied and least no of stations from the source to every destination station is calculated and displayed.
+There is also use of graph also.
+
+You can use following videos(links) and refer to my code to implement the same.....
+
+https://www.youtube.com/watch?v=DRJUhwN5Rvo
+https://www.youtube.com/watch?v=F3PNsWE6_hM
+
+OTHER DSA PROJECTS THAT YOU CAN REFER:-- https://www.youtube.com/watch?v=MeWudwrnk58
+
+Any query and help feel free to contact arinyadav1908@gmail.com / kaushikyash262@gmail.com
+
+OUR LINKEDIN PROFILE LINKS:-
+https://www.linkedin.com/in/arin-yadav-a26468230/
+https://www.linkedin.com/in/yash-kaushik-05665324a
