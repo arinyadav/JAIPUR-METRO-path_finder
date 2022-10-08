@@ -16,7 +16,7 @@ int mindistance(int distance[],bool stat[])
 	}
 	return ind;
 }
-void dijkstra(int g[30][30],int source,int destination, string stations[30])
+void dijkstras(int g[30][30],int source,int destination, string stations[30])
 {
 	int distance[30];
 	bool stat[30];          
@@ -88,7 +88,7 @@ int g[30][30]= {
  }
  cin>>source;
  cin>>destination;
- dijkstra(g,source,destination,stations);
+ dijkstras(g,source,destination,stations);
 
     return 0;
 }
