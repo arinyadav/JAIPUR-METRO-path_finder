@@ -18,9 +18,9 @@ int mindistance(int distance[],bool stat[])
 }
 void dijkstra(int g[30][30],int source,int destination, string stations[30])
 {
-	int distance[56];
-	bool stat[56];
-	for(int k=0;k<56;k++)
+	int distance[30];
+	bool stat[30];          
+	for(int k=0;k<30;k++)
 	{
 		distance[k]=INT_MAX;
 		stat[k]=false;
